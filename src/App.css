@@ -1,0 +1,41 @@
+.container {
+  width: 100%;
+  background-image: url("cover.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100%;
+  position: relative;
+  top: -120px;
+  white-space: pre-line;
+}
+
+.head {
+  position: absolute;
+  width: 100%;
+  float: left;
+  left: 0px;
+  top: 450px;
+  background-color: white;
+  padding: 35px;
+  border: 1px solid;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.body {
+  position: relative;
+  width: 50%;
+  top: 1175px;
+  left: 25%;
+}
+
+a {
+  color: inherit;
+}
+
+#parent {
+  background-color: #FFC0CB;
+}
